@@ -11,15 +11,15 @@ Note: it has been difficult for me to discern the copyright implications of this
 Next steps: 
 
 **First Phase** 
-Reading of mi_NZ.dic (list of Te Reo words) and generating request based on this.
-Recording place on the list
-Generating request to maoridictionary.com for term
-Creating Tweet
-Tweeting
+* Reading of mi_NZ.dic (list of Te Reo words) and generating request based on this.
+* Recording place on the list
+* Generating request to maoridictionary.com for term
+* Creating Tweet
+* Tweeting
 
 **Second Phase**
-Twitter API stuff
-Bot interaction on Twitter
+* Twitter API stuff
+* Bot interaction on Twitter
 
 Twitter: https://twitter.com/PaeTiihau @paetiihau
 
