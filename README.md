@@ -23,6 +23,8 @@ Next steps:
 
 Twitter: https://twitter.com/PaeTiihau @paetiihau
 
+English dict from: http://www.gwicks.net/dictionaries.htm
+
 
 
 
