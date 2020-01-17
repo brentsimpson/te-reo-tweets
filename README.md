@@ -25,7 +25,7 @@ Twitter: https://twitter.com/PaeTiihau @paetiihau
 
 English dict from: http://www.gwicks.net/dictionaries.htm
 
-
+[![Run on Repl.it](https://repl.it/badge/github/brentsimpson/te-reo-tweets)](https://repl.it/github/brentsimpson/te-reo-tweets)
 
 
 
