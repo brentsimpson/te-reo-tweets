@@ -11,8 +11,8 @@ Note: it has been difficult for me to discern the copyright implications of this
 Next steps: 
 
 **First Phase** 
-* Reading of mi_NZ.dic (list of Te Reo words) and generating request based on this.
-* Recording place on the list
+* ~~Reading of en.dic (list of English words) and generating request based on this.
+* ~~Recording word # to json file.
 * Generating request to maoridictionary.com for term
 * Creating Tweet
 * Tweeting
