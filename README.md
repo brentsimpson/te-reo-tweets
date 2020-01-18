@@ -11,8 +11,8 @@ Note: it has been difficult for me to discern the copyright implications of this
 Next steps: 
 
 **First Phase** 
-* ~~Reading of en.dic (list of English words) and generating request based on this.
-* ~~Recording word # to json file.
+* ~~Reading of en.dic (list of English words) and generating request based on this.~~
+* ~~Recording word # to json file.~~
 * Generating request to maoridictionary.com for term
 * Creating Tweet
 * Tweeting
